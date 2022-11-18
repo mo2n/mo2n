@@ -1,4 +1,6 @@
-
+- 👋 Hi, I’m @mo2n
+- 👀 I’m interested in Python, Rust
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
